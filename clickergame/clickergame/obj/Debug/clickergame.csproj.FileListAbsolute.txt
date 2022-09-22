@@ -1,0 +1,11 @@
+D:\AdamStrzelczyk\clickergame\clickergame\bin\Debug\clickergame.exe.config
+D:\AdamStrzelczyk\clickergame\clickergame\bin\Debug\clickergame.exe
+D:\AdamStrzelczyk\clickergame\clickergame\bin\Debug\clickergame.pdb
+D:\AdamStrzelczyk\clickergame\clickergame\obj\Debug\clickergame.csproj.AssemblyReference.cache
+D:\AdamStrzelczyk\clickergame\clickergame\obj\Debug\clickergame.csproj.SuggestedBindingRedirects.cache
+D:\AdamStrzelczyk\clickergame\clickergame\obj\Debug\clickergame.Form1.resources
+D:\AdamStrzelczyk\clickergame\clickergame\obj\Debug\clickergame.Properties.Resources.resources
+D:\AdamStrzelczyk\clickergame\clickergame\obj\Debug\clickergame.csproj.GenerateResource.cache
+D:\AdamStrzelczyk\clickergame\clickergame\obj\Debug\clickergame.csproj.CoreCompileInputs.cache
+D:\AdamStrzelczyk\clickergame\clickergame\obj\Debug\clickergame.exe
+D:\AdamStrzelczyk\clickergame\clickergame\obj\Debug\clickergame.pdb
